@@ -1,5 +1,7 @@
 # Pokročilá cvičení HTML, CSS a JavaScript
-
+![GitHub repo size](https://img.shields.io/github/repo-size/ZertiXDevHUB/cvic-6-9)
+![GitHub stars](https://img.shields.io/github/stars/ZertiXDevHUB/cvic-6-9?style=social)
+![GitHub forks](https://img.shields.io/github/forks/ZertiXDevHUB/cvic-6-9?style=social)
 Sbírka praktických cvičení ze školního prostředí zaměřených na moderní webový vývoj. Projekty demonstrují pokročilé techniky práce s HTML strukturou, CSS stylingem a JavaScriptovou interaktivitou.
 
 ## 📋 Obsah repozitáře
