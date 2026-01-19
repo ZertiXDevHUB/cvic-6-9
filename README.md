@@ -29,6 +29,9 @@ Interaktivní prezentace barevné palety s možností kopírování barevných k
 Simulace webového prohlížeče s pokročilými vizuálními efekty.
 
 **Technologie:**
+![HTML](https://img.shields.io/badge/HTML5-orange)
+![CSS](https://img.shields.io/badge/CSS3-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
 - Komplexní CSS stínování (text-shadow)
 - Imitace UI prohlížeče (tabs, toolbar, controls)
 - Event handling pro interaktivní prvky
